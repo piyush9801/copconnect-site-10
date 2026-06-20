@@ -16,7 +16,7 @@ export default {
         'cream-dark': '#EDE4D6',
         ink: '#1A1209',
         'ink-mid': '#3D2B1F',
-        muted: '#7A6A5A',
+        muted: '#635647',
         border: '#E8DDD0',
         brand: '#E8652A',
         'brand-mid': '#F0783A',
